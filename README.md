@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/GKB156/udacity-devops-project-4/7/workflows/216591c6-2224-4590-8ee8-7c79fe73d2f7)
 
 ## Project Overview
 
